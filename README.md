@@ -1,6 +1,11 @@
-### Hi there 👋
+### Hi there 👋 Meu nome  é Cristiane.
+Sou professora de Física.
+Atualmente estou trabalhendo  Pensamento Computacional com 1ª série do Ensino Médio.
+Estou em busca de novas tecnologias de sucesso.  
 
 <!--
+https://github.com/hideraldus13/github-emoji
+
 **cristianecorrea/cristianecorrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
