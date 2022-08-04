@@ -4,6 +4,8 @@
 - Estou em busca de novas tecnologias de sucesso 🧑🏼‍💻.  
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](htpp://instagram.com/cristianecorrea)
 <!--
+![Corrêa GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianecorrea&show_icons=true&theme=dracula)
+
 https://github.com/hideraldus13/github-emoji
 
 **cristianecorrea/cristianecorrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
