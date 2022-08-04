@@ -1,8 +1,8 @@
-### Hi there 👋 Meu nome  é Cristiane.
-Sou professora de Física.
-Atualmente estou trabalhendo  Pensamento Computacional com 1ª série do Ensino Médio.
-Estou em busca de novas tecnologias de sucesso.  
-
+### Olá! Meu nome  é Cristiane.
+- Sou professora de Física e Pensamento Computacional.
+- Atualmente estou trabalhando  Pensamento Computacional com 1ª série do Ensino Médio.
+- Estou em busca de novas tecnologias de sucesso 🧑🏼‍💻.  
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](htpp://instagram.com/cristianecorrea)
 <!--
 https://github.com/hideraldus13/github-emoji
 
