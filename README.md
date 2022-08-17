@@ -14,7 +14,8 @@
 https://github.com/hideraldus13/github-emoji
 
 **cristianecorrea/cristianecorrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![https://activity-graph.herokuapp.com/graph?username={username}&theme=minimal]
+
+![(https://activity-graph.herokuapp.com/graph?username={username}&theme=minimal)]
 
 Here are some ideas to get you started:
 
