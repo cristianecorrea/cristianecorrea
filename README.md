@@ -9,7 +9,6 @@
 - Estou em busca de novas tecnologias de sucesso.  
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](cristiane.correa@escola.pr.gov.br) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](htpp://instagram.com/cristianecorrea)
 <!--
-![Corrêa GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianecorrea&show_icons=true&theme=dracula)
 
 https://github.com/hideraldus13/github-emoji
 
