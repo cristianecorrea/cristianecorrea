@@ -1,12 +1,13 @@
 # Sobre mim
-- Meu nome  é Cristiane.
+- Meu nome é Cristiane.
 - Sou professora de Física e Pensamento Computacional.
 - Atualmente estou trabalhando  Pensamento Computacional com 1ª série do Ensino Médio. 💻
-- Me interesso por linguagens:
+- Estou interessada nas seguintes linguagens de programação:
 
+![SCRATCH](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- Estou em busca de novas tecnologias de sucesso.  
+- Como entrar em contato comigo:  
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](cristiane.correa@escola.pr.gov.br) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](htpp://instagram.com/cristianecorrea)
 <!--
 
