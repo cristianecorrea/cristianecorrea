@@ -17,6 +17,8 @@ https://github.com/hideraldus13/github-emoji
 
 [!][(https://activity-graph.herokuapp.com/graph?username={username}&theme=minimal)]
 
+(https://github.com/anuraghazra/github-readme-stats)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
